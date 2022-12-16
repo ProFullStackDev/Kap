@@ -1,16 +1,3 @@
-## Get Kap
-
-Download the latest release:
-
-- [Apple silicon](https://getkap.co/api/download/arm64)
-- [Intel](https://getkap.co/api/download/x64)
-
-Or install with [Homebrew-Cask](https://caskroom.github.io):
-
-```sh
-brew install --cask kap
-```
-
 ## How To Use Kap
 
 Click the menu bar icon to bring up the screen recorder. After selecting what portion of the screen you'd like to record, hit the record button to start recording. Click the menu bar icon again to stop the recording.
